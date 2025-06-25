@@ -1,0 +1,5 @@
+game:GetService("StarterGui"):SetCore("SendNotification", {
+  Title = "Found!",
+  Text = "Found a Server.",
+  Duration = 10
+})
